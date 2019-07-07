@@ -36,14 +36,15 @@
   },
   "homepage": "https://github.com/otaviosoares/seneca-servicebus-transport",
   "dependencies": {
-    "amqp10": "^3.5.3",
+    "amqp10": "^3.6.0",
     "amqp10-link-cache": "^1.2.2",
     "async": "^2.5.0",
-    "azure": "^0.10.6",
+    "azure": "^2.3.1-preview",
     "bluebird": "^3.5.0",
     "debug": "^3.1.0",
     "jsonic": "^0.3.0",
     "lodash": "^4.17.4",
+    "require-dir": "^1.2.0",
     "seneca": "^3.4.2",
     "shortid": "^2.2.8",
     "uuid": "^3.1.0"
