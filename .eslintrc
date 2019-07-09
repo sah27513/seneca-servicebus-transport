@@ -3,10 +3,9 @@
   "env": {
     "mocha": true
   },
-  "plugins": [
-      "standard"
-  ],
+  "plugins": ["standard"],
   "rules": {
-      "camelcase": [0]
+    "camelcase": [0],
+    "semi": 0
   }
 }
