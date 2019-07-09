@@ -1,6 +1,6 @@
 {
   "servicebus": {
-    "type": "topic",
+    "type": "queue",
     "topics": {},
     "queues": {
       "action": {
